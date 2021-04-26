@@ -1,0 +1,59 @@
+﻿  main.cpp
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(14,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(19,51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(287,48): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(292,49): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(293,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(294,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(305,28): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(331,67): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(348,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(350,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(386,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(397,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(399,41): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(399,79): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(414,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(416,43): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(416,83): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(417,36): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elona\source\repos\CruiseControlMonitoring\CruiseControlMonitoring\main.cpp(426,20): warning C4018: '<': signed/unsigned mismatch
+  CruiseControlMonitoring.vcxproj -> C:\Users\elona\source\repos\CruiseControlMonitoring\Debug\CruiseControlMonitoring.exe
